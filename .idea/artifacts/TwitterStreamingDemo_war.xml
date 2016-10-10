@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TwitterStreamingDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="streaming.war">
+      <element id="artifact" artifact-name="TwitterStreamingDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
